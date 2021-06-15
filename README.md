@@ -1,4 +1,4 @@
-# Food-Name-API
+# Food-Names-API
 
 An API that will return random Food Names 🍕🍜
 
