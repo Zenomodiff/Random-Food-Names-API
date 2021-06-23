@@ -4,7 +4,7 @@ An API that will return random Food Names.
 
 ## Usage:
 
-+ `https://dog-facts-api.herokuapp.com/api/v1/resources/dogs/all` to get all the facts at once.
++ `https://food-names-api.herokuapp.com/api/Food-Names/all` to get all the facts at once.
 + Change `all` to parameter `?number=` to specify the number of facts you want to receive.
 + Change `all` to parameter `?index=` to specify the index of the fact you are targeting.
 
@@ -19,7 +19,7 @@ An API that will return random Food Names.
 + App starts at port 5000 by default, but can be configured with a `.env` file. 
 
 ## Example:
-+ `https://dog-facts-api.herokuapp.com/api/v1/resources/dogs?number=1` returns:
++ `https://food-names-api.herokuapp.com/api/Food-Names?number=1` returns:
 ```JSON
 [
     {
