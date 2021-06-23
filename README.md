@@ -17,7 +17,7 @@ Note: The project is being hosted by [Heroku](https://www.heroku.com/)
 + Run `source .env/bin/activate` to activate the virtual environment.
 + Run `pip install requirements.txt`.
 + Run `python app.py`.
-+ App starts at `http://localhost:5000/` by default, but can be configured with a `.env` file. 
++ App starts at `http://localhost:5000` by default, but can be configured with a `.env` file. 
 
 ## Example:
 
