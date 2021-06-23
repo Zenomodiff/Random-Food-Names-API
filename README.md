@@ -10,7 +10,7 @@
 + Change `all` to parameter `?number=` to specify the number of facts you want to receive.
 + Change `all` to parameter `?index=` to specify the index of the fact you are targeting.
 
-Note: The project is being hosted by [Heroku](https://www.heroku.com/)
+This project is hosted by [Heroku](https://www.heroku.com/)
 
 ## Rebuild the project:
 + Clone the repo.
