@@ -4,7 +4,7 @@ An API that will return random Food Names.
 
 ## Usage:
 
-+ `https://food-names-api.herokuapp.com/` to get the documentation.
++ `https://food-names-api.herokuapp.com` to get the documentation.
 + `https://food-names-api.herokuapp.com/api/Food-Names/all` to get all the facts at once.
 + Change `all` to parameter `?number=` to specify the number of facts you want to receive.
 + Change `all` to parameter `?index=` to specify the index of the fact you are targeting.
@@ -17,7 +17,7 @@ Note: The project is being hosted by [Heroku](https://www.heroku.com/)
 + Run `source .env/bin/activate` to activate the virtual environment.
 + Run `pip install requirements.txt`.
 + Run `python app.py`.
-+ App starts at port 5000 by default, but can be configured with a `.env` file. 
++ App starts at `http://localhost:5000/` by default, but can be configured with a `.env` file. 
 
 ## Example:
 
