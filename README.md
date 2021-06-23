@@ -1,6 +1,7 @@
 # Food Names API 🍗🍔🍕🍜
 
 An API that will return random Food Names 🍡🥧🎂🌮
+Dedicated To All Food Lovers ❤️
 
 ## Usage:
 
