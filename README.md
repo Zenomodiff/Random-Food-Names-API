@@ -6,9 +6,9 @@
 ## Usage:
 
 + `https://food-names-api.herokuapp.com` to get the documentation.
-+ `https://food-names-api.herokuapp.com/api/Food-Names/all` to get all the facts at once.
-+ Change `all` to parameter `?number=` to specify the number of facts you want to receive.
-+ Change `all` to parameter `?index=` to specify the index of the fact you are targeting.
++ `https://food-names-api.herokuapp.com/api/Food-Names/all` to get all the Movie Names at once.
++ Change `all` to parameter `?number=` to specify the number of Movie Names you want to receive.
++ Change `all` to parameter `?index=` to specify the index of the Movie Name you are targeting.
 
 This project is hosted by [Heroku](https://www.heroku.com/)
 
