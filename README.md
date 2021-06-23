@@ -1,4 +1,4 @@
-# Dog Facts API
+# Food Names API
 
 An API that will return random Food Names.
 
@@ -8,7 +8,7 @@ An API that will return random Food Names.
 + Change `all` to parameter `?number=` to specify the number of facts you want to receive.
 + Change `all` to parameter `?index=` to specify the index of the fact you are targeting.
 
-> Note: The project is being hosted by Heroku with free dyno; thus, there will be potential delay the first time you make a request (app went to sleep after dyno does not receive traffic in 1 hour). Please be patient, and the call will be faster next time.
+> Note: The project is being hosted by [Heroku](https://www.heroku.com/)
 
 ## Rebuild the project:
 + Clone the repo.
