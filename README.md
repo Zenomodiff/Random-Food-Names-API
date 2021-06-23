@@ -12,30 +12,30 @@ An API that will return random Food Names.
 
 ## Rebuild the project:
 + Clone the repo.
-+ Run `python3 -m venv .env` to create a virtual environment.
++ Run `python -m venv .env` to create a virtual environment.
 + Run `source .env/bin/activate` to activate the virtual environment.
 + Run `pip install requirements.txt`.
-+ Run `python3 app.py`.
++ Run `python app.py`.
 + App starts at port 5000 by default, but can be configured with a `.env` file. 
 
 ## Example:
 + `https://food-names-api.herokuapp.com/api/Food-Names?number=1` returns:
 ```JSON
 [
-    {
-        "fact": "Many foot disorders in dogs are caused by long toenails."
-    }
+  {
+    "Food_Name": "Mushroom"
+  }
 ]
 ```
 
-+ `https://dog-facts-api.herokuapp.com/api/v1/resources/dogs?number=2` returns:
++ `https://food-names-api.herokuapp.com/api/Food-Names?number=2` returns:
 ```JSON
 [
-    {
-        "fact": "Endal was the first dog to ride on the London Eye (the characteristic ferris wheel in London, England), and was also the first known dog to successfully use a ATM machine."
-    },
-    {
-        "fact": "At the age of 4 weeks, most dogs have developed the majority of their vocalizations."
-    }
+  {
+    "Food_Name": "Grape Juice"
+  }, 
+  {
+    "Food_Name": "Carrot Juice"
+  }
 ]
 ```
