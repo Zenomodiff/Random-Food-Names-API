@@ -1,6 +1,6 @@
-# Food Names API
+# Food Names API 🍗🍔🍕🍜
 
-An API that will return random Food Names.
+An API that will return random Food Names 🍡🥧🎂🌮
 
 ## Usage:
 
