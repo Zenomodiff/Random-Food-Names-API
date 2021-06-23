@@ -1,11 +1,6 @@
 # Dog Facts API
 
-An API that will return random facts about dog.
-
-## Inspirations 
-+ The project is a port of [kinduff/dog-api](https://github.com/kinduff/dog-api) using Python with Flask.
-+ There is still no other dog facts api while there are many APIs supporting cat facts. It is unfair !!!
-+ I'm a dog person. Cats are jerks.
+An API that will return random Food Names.
 
 ## Usage:
 
