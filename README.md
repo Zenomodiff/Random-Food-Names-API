@@ -21,7 +21,7 @@ Note: The project is being hosted by [Heroku](https://www.heroku.com/)
 
 ## Example:
 
-+ `https://food-names-api.herokuapp.com/api/Food-Names?number=1` returns:
++ `https://food-names-api.herokuapp.com/api/Food-Names?number=1` returns: ↓
 ```JSON
 [
   {
@@ -30,7 +30,7 @@ Note: The project is being hosted by [Heroku](https://www.heroku.com/)
 ]
 ```
 
-+ `https://food-names-api.herokuapp.com/api/Food-Names?number=2` returns:
++ `https://food-names-api.herokuapp.com/api/Food-Names?number=2` returns: ↓
 ```JSON
 [
   {
