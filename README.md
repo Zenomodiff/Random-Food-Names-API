@@ -26,7 +26,7 @@ This project is hosted by [Heroku](https://www.heroku.com/)
 ```JSON
 [
   {
-    "Food_Name": "Mushroom"
+    "Food_Name": "Mutton Soup"
   }
 ]
 ```
@@ -35,10 +35,10 @@ This project is hosted by [Heroku](https://www.heroku.com/)
 ```JSON
 [
   {
-    "Food_Name": "Grape Juice"
+    "Food_Name": "Gobi Munchuriyan"
   }, 
   {
-    "Food_Name": "Carrot Juice"
+    "Food_Name": "Chicken fingers"
   }
 ]
 ```
