@@ -5,12 +5,12 @@
 
 ## Usage:
 
-+ `https://food-names-api.herokuapp.com` to get the documentation.
-+ `https://food-names-api.herokuapp.com/api/Food-Names/all` to get all the Food Names at once.
++ ### [`https://randomfoodnamesapi.herokuapp.com/`](https://randomfoodnamesapi.herokuapp.com/) to get the documentation.
++ ### [`https://randomfoodnamesapi.herokuapp.com/api/Food-Names/all`](https://randomfoodnamesapi.herokuapp.com/api/Food-Names/all) to get all the Food Names at once.
 + Change `all` to parameter `?number=` to specify the number of Food Names you want to receive.
 + Change `all` to parameter `?index=` to specify the index of the Food Name you are targeting.
 
-This project is hosted by [Heroku](https://www.heroku.com/)
+This project is hosted by [Heroku](https://www.heroku.com/) with zenomodiffofficial@gmail.com
 
 ## Rebuild the project:
 + Clone the repo.
@@ -22,7 +22,7 @@ This project is hosted by [Heroku](https://www.heroku.com/)
 
 ## Example:
 
-+ `https://food-names-api.herokuapp.com/api/Food-Names?number=1` returns: ↓
++ ### [`https://randomfoodnamesapi.herokuapp.com/api/Food-Names?number=1`](https://randomfoodnamesapi.herokuapp.com/api/Food-Names?number=1) returns: ↓
 ```JSON
 [
   {
@@ -31,7 +31,7 @@ This project is hosted by [Heroku](https://www.heroku.com/)
 ]
 ```
 
-+ `https://food-names-api.herokuapp.com/api/Food-Names?number=2` returns: ↓
++ ### [`https://randomfoodnamesapi.herokuapp.com/api/Food-Names?number=2`](https://randomfoodnamesapi.herokuapp.com/api/Food-Names?number=2) returns: ↓
 ```JSON
 [
   {
