@@ -10,7 +10,7 @@
 + Change `all` to parameter `?number=` to specify the number of Food Names you want to receive.
 + Change `all` to parameter `?index=` to specify the index of the Food Name you are targeting.
 
-This project is hosted by [Heroku](https://www.heroku.com/) with zenomodiffofficial@gmail.com
+This project is hosted by [Heroku](https://www.heroku.com/) with with jlcpcbofficial@gmail.com
 
 ## Rebuild the project:
 + Clone the repo.
